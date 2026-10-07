@@ -1,0 +1,44 @@
+[
+  {
+    "number": 1,
+    "name": "VIN",
+    "x_mm": 17.78,
+    "y_mm": 1.524
+  },
+  {
+    "number": 2,
+    "name": "GND",
+    "x_mm": 15.24,
+    "y_mm": 1.524
+  },
+  {
+    "number": 3,
+    "name": "3V3",
+    "x_mm": 12.7,
+    "y_mm": 1.524
+  },
+  {
+    "number": 4,
+    "name": "SCL",
+    "x_mm": 10.16,
+    "y_mm": 1.524
+  },
+  {
+    "number": 5,
+    "name": "SDA",
+    "x_mm": 7.62,
+    "y_mm": 1.524
+  },
+  {
+    "number": 6,
+    "name": "INT",
+    "x_mm": 5.08,
+    "y_mm": 1.524
+  },
+  {
+    "number": 7,
+    "name": "LED",
+    "x_mm": 2.54,
+    "y_mm": 1.524
+  }
+]

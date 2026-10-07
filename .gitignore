@@ -1,0 +1,15 @@
+# Archivos generados por Altium
+History/
+__Previews/
+Project Outputs*/
+*.PrjPcbStructure
+*.PrjPcbVariants
+*.LOG
+*.bak
+*.~*
+*.Lck
+
+# Archivos del sistema
+Thumbs.db
+Desktop.ini
+.DS_Store

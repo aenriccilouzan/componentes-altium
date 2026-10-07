@@ -1,0 +1,8 @@
+[Design]
+Version=1.0
+
+[Document1]
+DocumentPath=Adafruit_TCS34725_Module.SchLib
+
+[Document2]
+DocumentPath=Adafruit_TCS34725_Module.PcbLib
